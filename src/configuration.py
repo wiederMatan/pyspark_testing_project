@@ -4,7 +4,7 @@ topic_info = 'T_INFO'
 topic_info_dir = 'T_INFO_DIR'
 topic_dir = 'T_DIR'
 # ======================================== Kafka source filters =============================================== #
-source_file = r'/tmp/pycharm_project_817/json_files'
+source_file = r'/tmp/pycharm_project_437/json_files'
 
 filter_info = r"INFO_Main"
 filter_info_dir = r"INFO_DIR"

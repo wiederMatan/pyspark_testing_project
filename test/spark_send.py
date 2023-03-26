@@ -17,7 +17,8 @@ spark = SparkSession.builder\
     .appName('NayaProject')\
     .config("spark.mongodb.input.uri", "mongodb://localhost:27017/tstdb.statistics")\
     .config("spark.mongodb.output.uri", "mongodb://localhost:27017/tstdb.statistics")\
-    .config('spark.jars.packages', 'org.mongodb.spark:mongo-spark-connector_2.12:3.0.1').getOrCreate()
+    .config('spark.jars.packages', 'org.mongodb.spark:mongo-spark-connector_2.11:2.4.3,org.apache.spark:spark-sql-kafka-0-10_2.11:2.4.3')\
+    .getOrCreate()
 
 # Define the schema for the incoming Kafka messages
 schema = StructType([

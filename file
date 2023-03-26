@@ -16,3 +16,8 @@ mongoimport --db treesize_db --collection col_DIR --jsonArray --file Svetlana_La
 
 
 db.col_INFO.find().pretty()
+
+
+db.collection.drop( { writeConcern: <document> } )
+
+db.dropDatabase()
