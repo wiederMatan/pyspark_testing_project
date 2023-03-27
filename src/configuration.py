@@ -4,7 +4,7 @@ topic_info = 'T_INFO'
 topic_info_dir = 'T_INFO_DIR'
 topic_dir = 'T_DIR'
 # ======================================== Kafka source filters =============================================== #
-source_file = r'/tmp/pycharm_project_437/json_files'
+source_file = r'/tmp/pycharm_project_6/json_files'
 
 filter_info = r"INFO_Main"
 filter_info_dir = r"INFO_DIR"
@@ -15,4 +15,6 @@ db_tz = 'treesize_db'
 col_INFO = 'col_INFO'
 col_F_INFO = 'col_F_INFO'
 col_DIR = 'col_DIR'
+# ================================= Archive_Files  =============================================== #
+archive_files = '/tmp/pycharm_project_6/archive_files'
 

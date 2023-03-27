@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="naya@34.27.16.243:122 (23)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="naya@34.27.16.243:122 (27)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="naya@104.197.32.10:122 password">
@@ -154,6 +154,34 @@
         <serverdata>
           <mappings>
             <mapping deploy="/tmp/pycharm_project_46" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="naya@34.27.16.243:122 (24)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_616" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="naya@34.27.16.243:122 (25)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_771" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="naya@34.27.16.243:122 (26)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_212" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="naya@34.27.16.243:122 (27)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_6" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
